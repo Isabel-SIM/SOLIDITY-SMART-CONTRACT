@@ -32,24 +32,24 @@ After years of rigorous testing and selection, the Martian Aerospace Agency has 
 
 ## Evidence of Deployment
 
-![DEPLOYED2](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/DEPLOYED2.png) <br>
+![DEPLOYED2](https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/DEPLOYED2.png) <br>
 <br>
 <b>.SOL FILES:</b> <br>
-(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/SOLFILE1.png) <br>
-(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/SOLFILE2.png) <br>
-(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/SOLFILE3.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/SOLFILE1.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/SOLFILE2.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/SOLFILE3.png) <br>
 
 <b>DEPLOYMENT STAGES:</b> <br>
-(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/DEPLOYED1.png) <br>
-(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/DEPLOYED3.png) <br>
-(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/DEPLOYED4.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/DEPLOYED1.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/DEPLOYED3.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/DEPLOYED4.png) <br>
 
 
 <b>INITIAL ETH:</b> <br>
-![METAMARK1](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/METAMARK1.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/METAMARK1.png) <br>
 
 <b>REDUCED ETH:</b> <br>
-![METAMARK2](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/METAMARK2.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/METAMARK2.png) <br>
 
 <b>FILES INCLUDED:</b> <br>
    - KaseiCoin.sol - Defines the main KaseiCoin token.
