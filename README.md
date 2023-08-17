@@ -4,12 +4,22 @@
 ## Background
 After years of rigorous testing and selection, the Martian Aerospace Agency has chosen you to lead the fintech frontier on Mars. Your mission: to establish a monetary system for the first Martian colony. Introducing KaseiCoin (Kasei means Mars in Japanese) - a blockchain-based cryptocurrency designed exclusively for Mars. As an ERC-20 compliant fungible token, KaseiCoin will be the heart of Martian commerce, starting with a crowdsale for early adopters looking to convert their Earth currency.
 
+
+## Files Included:
+   - KaseiCoin.sol - Defines the main KaseiCoin token.
+   - KaseiCoinCrowdsale.sol - Manages the crowdsale of KaseiCoin.
+   - KaseiCoinDeployer.sol - Deploys both the token and crowdsale contracts.
+     
+<br>
+
 ## Setup and Deployment
 <b>1. KaseiCoin Token Contract:</b>
    - Import the KaseiCoin.sol starter file into Remix IDE.
    - Use OpenZeppelin libraries: ERC20, ERC20Detailed, and ERC20Mintable.
    - Create the KaseiCoin contract with a constructor specifying its name, symbol, and initial supply.
    - Compile using Solidity version 0.5.0.
+     
+<br>
 
 <b>2. KaseiCoin Crowdsale Contract</b>
    - Begin with the KaseiCoinCrowdsale.sol starter file.
@@ -50,8 +60,3 @@ After years of rigorous testing and selection, the Martian Aerospace Agency has 
 
 <b>REDUCED ETH:</b> <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTYONE-HOMEWORK/blob/main/Images/METAMARK2.png) <br>
-
-<b>FILES INCLUDED:</b> <br>
-   - KaseiCoin.sol - Defines the main KaseiCoin token.
-   - KaseiCoinCrowdsale.sol - Manages the crowdsale of KaseiCoin.
-   - KaseiCoinDeployer.sol - Deploys both the token and crowdsale contracts.
